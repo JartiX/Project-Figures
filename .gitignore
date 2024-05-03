@@ -34,3 +34,11 @@
 *.vsidx
 /.vs
 /out
+/Project-Figures/x64
+*.filters
+*.vcxproj
+/x64
+*.sln
+*.user
+CMakeLists.txt
+CMakePresets.json
