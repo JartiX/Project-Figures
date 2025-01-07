@@ -57,6 +57,6 @@ brew install gcc
 1. Скачайте или клонируйте репозиторий.
 2. Соберите проект с помощью компилятора C++.
    ```bash
-   g++ Project-Template.cpp -o project-template
+   g++ Project-Figures.cpp -o project-figures
    ```
 3. Запустите программу. В результате будет выведена информация о каждой фигуре: её имя, площадь и периметр.
